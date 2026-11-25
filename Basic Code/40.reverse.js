@@ -5,4 +5,4 @@ while (num > 0) {
     reverse = reverse * 10 + digit;
     num = Math.floor(num / 10);
 }
-console.log(reverse);
+console.log(reverse); s
