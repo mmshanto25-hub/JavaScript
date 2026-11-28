@@ -5,3 +5,5 @@ const profile = {
     following: 321,
 };
 console.log(profile);
+console.log(typeof (profile));
+console.log(typeof (profile.username));
